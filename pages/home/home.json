@@ -1,0 +1,7 @@
+{
+  "usingComponents": {},
+  "navigationBarBackgroundColor": "#ff6979",
+  "navigationBarTextStyle": "white",
+  "navigationBarTitleText": "购物街",
+  "enablePullDownRefresh": true
+}
